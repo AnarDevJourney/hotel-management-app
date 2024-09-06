@@ -16,32 +16,32 @@ You can view the project live here:
 ## Project features
 
 👤 User Authentication
-Exclusive Access: Only hotel employees can sign up.
-Login Required: Employees must be logged in to access the application.
-Profile Management: Employees can update their name and password.
+- Exclusive Access: Only hotel employees can sign up.
+- Login Required: Employees must be logged in to access the application.
+- Profile Management: Employees can update their name and password.
 
 🏠 Cabin Management
-Cabin Table View: View all cabins with their photo, name, capacity, price, and current discount in a tabular format.
-CRUD Operations: Create and delete cabins, including uploading cabin photos.
+- Cabin Table View: View all cabins with their photo, name, capacity, price, and current discount in a tabular format.
+- CRUD Operations: Create and delete cabins, including uploading cabin photos.
 
 📝 Booking Management
-Booking Table View: View bookings with arrival/departure dates, status, paid amount, and associated cabin/guest data.
-Status Filters: Filter bookings by status — "Unconfirmed", "Checked In", "Checked Out".
-Booking Actions: Delete bookings, check guests in or out.
-Payment Handling: Manually confirm payments.
+- Booking Table View: View bookings with arrival/departure dates, status, paid amount, and associated cabin/guest data.
+- Status Filters: Filter bookings by status — "Unconfirmed", "Checked In", "Checked Out".
+- Booking Actions: Delete bookings, check guests in or out.
+- Payment Handling: Manually confirm payments.
 
 👥 Guest Info
-Detailed Guest Info: View guest data including full name, email, national ID, nationality, and country flag for easy identification.
+- Detailed Guest Info: View guest data including full name, email, national ID, nationality, and country flag for easy identification.
 
 📊 Dashboard Overview
-Key Statistics: View recent stats on bookings, sales, check-ins, and cabins.
-Stay Duration Chart: View stay duration statistics in pie chart.
+- Key Statistics: View recent stats on bookings, sales, check-ins, and cabins.
+- Stay Duration Chart: View stay duration statistics in pie chart.
 
 ⚙️ Application Settings
-Configurable Settings: Define app-wide settings like breakfast price, minimum/maximum nights per booking, and maximum guests per booking.
+- Configurable Settings: Define app-wide settings like breakfast price, minimum/maximum nights per booking, and maximum guests per booking.
 
 🌑 Dark Mode
-Dark Mode: Switch between light and dark modes for a comfortable user interface experience.
+- Dark Mode: Switch between light and dark modes for a comfortable user interface experience.
 
 ## Technologies
 
