@@ -7,6 +7,10 @@ This is a React project where hotel employees can manage cabins, bookings, users
 You can view the project live here:
 [Hotel-Management-App](https://hotelmanagementapplication.netlify.app)
 
+Test Account
+test@mail.com
+12345678
+
 ### Table of Contents
 
 - [Project-features](#project-features)
